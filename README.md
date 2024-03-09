@@ -1,1 +1,1 @@
-# Car-rental-managment
+# Car-rental-management
