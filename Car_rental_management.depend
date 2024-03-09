@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1672783916 source:c:\users\saraf\desktop\car_rental_management\main.c
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"module1.h"
+	"module2.h"
+	"module3.h"
+	"module4.h"
+
+1671463046 source:c:\users\saraf\desktop\car_rental_management - copy\module1.c
+	<stdio.h>
+	"module1.h"
+
+1671463046 c:\users\saraf\desktop\car_rental_management - copy\module1.h
+	<stdlib.h>
+
+1671467151 source:c:\users\saraf\desktop\car_rental_management - copy\main.c
+	<string.h>
+	<stdio.h>
+	"module1.h"
+	"module2.h"
+	"module3.h"
+
+1671462881 c:\users\saraf\desktop\car_rental_management - copy\module2.h
+	<stdlib.h>
+
+1671466972 source:c:\users\saraf\desktop\car_rental_management - copy\module2.c
+	<stdio.h>
+	<string.h>
+	"module2.h"
+
+1671465729 c:\users\saraf\desktop\car_rental_management - copy\module3.h
+	<stdlib.h>
+
+1671466830 source:c:\users\saraf\desktop\car_rental_management - copy\module3.c
+	<stdio.h>
+	<string.h>
+	"module3.h"
+
+1672663764 source:c:\users\saraf\documents\car_rental_management\main.c
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"module1.h"
+	"module2.h"
+	"module3.h"
+	"module4.h"
+
+1672615322 c:\users\saraf\documents\car_rental_management\module1.h
+	<stdlib.h>
+
+1672616535 c:\users\saraf\documents\car_rental_management\module2.h
+	<stdlib.h>
+
+1672662470 c:\users\saraf\documents\car_rental_management\module3.h
+	<stdlib.h>
+	<string.h>
+
+1672657260 source:c:\users\saraf\documents\car_rental_management\module1.c
+	<stdio.h>
+	<stdlib.h>
+	"module1.h"
+
+1672663337 source:c:\users\saraf\documents\car_rental_management\module2.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"module2.h"
+
+1672664842 source:c:\users\saraf\documents\car_rental_management\module3.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"module3.h"
+
+1672664842 c:\users\saraf\documents\car_rental_management\module4.h
+	<stdlib.h>
+
+1672664842 source:c:\users\saraf\documents\car_rental_management\module4.c
+	<stdio.h>
+	<string.h>
+	"module4.h"
+
+1672664854 source:c:\users\saraf\desktop\zidinan\car_rental_management\main.c
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"module1.h"
+	"module2.h"
+	"module3.h"
+	"module4.h"
+
+1672615322 c:\users\saraf\desktop\zidinan\car_rental_management\module1.h
+	<stdlib.h>
+
+1672616535 c:\users\saraf\desktop\zidinan\car_rental_management\module2.h
+	<stdlib.h>
+
+1672662470 c:\users\saraf\desktop\zidinan\car_rental_management\module3.h
+	<stdlib.h>
+	<string.h>
+
+1672664842 c:\users\saraf\desktop\zidinan\car_rental_management\module4.h
+	<stdlib.h>
+
+1672657260 source:c:\users\saraf\desktop\zidinan\car_rental_management\module1.c
+	<stdio.h>
+	<stdlib.h>
+	"module1.h"
+
+1672663337 source:c:\users\saraf\desktop\zidinan\car_rental_management\module2.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"module2.h"
+
+1672664842 source:c:\users\saraf\desktop\zidinan\car_rental_management\module4.c
+	<stdio.h>
+	<string.h>
+	"module4.h"
+
+1672751735 source:c:\users\saraf\desktop\zidinan\car_rental_management\module3.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"module3.h"
+
+1672615322 c:\users\saraf\desktop\car_rental_management\module1.h
+	<stdlib.h>
+
+1672756374 c:\users\saraf\desktop\car_rental_management\module2.h
+	<stdlib.h>
+
+1672756374 c:\users\saraf\desktop\car_rental_management\module3.h
+	<stdlib.h>
+	<string.h>
+
+1672782532 c:\users\saraf\desktop\car_rental_management\module4.h
+	<stdlib.h>
+
+1673272704 source:c:\users\saraf\desktop\car_rental_management\module1.c
+	<stdio.h>
+	<stdlib.h>
+	"module1.h"
+
+1673194718 source:c:\users\saraf\desktop\car_rental_management\module3.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"module3.h"
+
+1673194718 source:c:\users\saraf\desktop\car_rental_management\module4.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"module4.h"
+
+1673194718 source:c:\users\saraf\desktop\car_rental_management\module2.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"module2.h"
+

@@ -1,0 +1,23 @@
+-------------------------------------------------
+                     INVOICE
+-------------------------------------------------
+Provider: 	                       DD Rentals Co.
+Place: 	                          Cluj-Napoca
+Phone Number: 	                     0265108362
+Customer Name: 	            Denisa Sarafinceanu
+Customer Phone Number: 	            07561718
+Customer Address: 	         Observator no 15
+
+                 - Car Details -
+                 Volkswagen Golf
+                     Compact
+       1.6 liter | petrol engine | 120 HP       
+
+The initial date:                     12.1.2023
+The final date:                        3.2.2023
+
+
+Regular Price without discount: 	       1840.00$
+Price with discount: 	                  1656.00$
+-------------------------------------------------
+V.A.T.                                    314.64$

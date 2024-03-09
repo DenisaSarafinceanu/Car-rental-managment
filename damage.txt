@@ -1,0 +1,21 @@
+-------------------------------------------------
+                     INVOICE
+-------------------------------------------------
+Provider: 	                       DD Rentals Co.
+Place: 	                          Cluj-Napoca
+Phone Number: 	                     0265108362
+Customer Name: 	            Denisa Sarafinceanu
+Customer Phone Number: 	           075187181
+Customer Address: 	         Observator no 19
+
+                 - Car Details -
+                   Honda Accord
+                      Sedan
+
+-------------------------------------------------
+V.A.T.                                    380.00$
+Damaged elements                         2000.00$
+
+Total                                    2380.00$
+
+
